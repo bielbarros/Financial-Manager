@@ -15,3 +15,4 @@ C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\
 C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\FinancialManager.Infrastructure.pdb
 C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\FinancialManager.Infrastructure.genruntimeconfig.cache
 C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\ref\FinancialManager.Infrastructure.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\FinancialManager.Infrastructure.sourcelink.json

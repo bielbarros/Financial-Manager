@@ -13,3 +13,4 @@ C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net
 C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\refint\FinancialManager.Application.dll
 C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\FinancialManager.Application.pdb
 C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\ref\FinancialManager.Application.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\FinancialManager.Application.sourcelink.json

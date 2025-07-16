@@ -9,3 +9,4 @@ C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\obj\Debug\net8.0\F
 C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\obj\Debug\net8.0\refint\FinancialManager.Domain.dll
 C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\obj\Debug\net8.0\FinancialManager.Domain.pdb
 C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\obj\Debug\net8.0\ref\FinancialManager.Domain.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\obj\Debug\net8.0\FinancialManager.Domain.sourcelink.json
