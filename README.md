@@ -2,6 +2,10 @@
 
 Um sistema robusto de controle financeiro desenvolvido em C# com WPF, seguindo arquitetura em camadas (Clean Architecture).
 
+![Interface do Sistema](print-tela.png)
+
+*Interface principal do Sistema de Controle Financeiro mostrando o cadastro de transações, listagem e demonstrativo financeiro.*
+
 ##  Arquitetura do Projeto
 
 ### Estrutura de Pastas
