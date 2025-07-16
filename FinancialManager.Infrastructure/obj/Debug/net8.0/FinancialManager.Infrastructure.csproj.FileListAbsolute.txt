@@ -1,0 +1,17 @@
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\bin\Debug\net8.0\FinancialManager.Infrastructure.deps.json
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\bin\Debug\net8.0\FinancialManager.Infrastructure.runtimeconfig.json
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\bin\Debug\net8.0\FinancialManager.Infrastructure.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\bin\Debug\net8.0\FinancialManager.Infrastructure.pdb
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\bin\Debug\net8.0\FinancialManager.Domain.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\bin\Debug\net8.0\FinancialManager.Domain.pdb
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\FinancialManager.Infrastructure.csproj.AssemblyReference.cache
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\FinancialManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\FinancialManager.Infrastructure.AssemblyInfoInputs.cache
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\FinancialManager.Infrastructure.AssemblyInfo.cs
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\FinancialManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\Financia.ECB40CC0.Up2Date
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\FinancialManager.Infrastructure.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\refint\FinancialManager.Infrastructure.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\FinancialManager.Infrastructure.pdb
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\FinancialManager.Infrastructure.genruntimeconfig.cache
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Infrastructure\obj\Debug\net8.0\ref\FinancialManager.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\bin\Debug\net8.0\FinancialManager.Domain.deps.json
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\bin\Debug\net8.0\FinancialManager.Domain.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\bin\Debug\net8.0\FinancialManager.Domain.pdb
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\obj\Debug\net8.0\FinancialManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\obj\Debug\net8.0\FinancialManager.Domain.AssemblyInfoInputs.cache
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\obj\Debug\net8.0\FinancialManager.Domain.AssemblyInfo.cs
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\obj\Debug\net8.0\FinancialManager.Domain.csproj.CoreCompileInputs.cache
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\obj\Debug\net8.0\FinancialManager.Domain.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\obj\Debug\net8.0\refint\FinancialManager.Domain.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\obj\Debug\net8.0\FinancialManager.Domain.pdb
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Domain\obj\Debug\net8.0\ref\FinancialManager.Domain.dll

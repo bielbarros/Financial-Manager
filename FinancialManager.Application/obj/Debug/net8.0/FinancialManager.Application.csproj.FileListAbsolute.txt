@@ -1,0 +1,15 @@
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\bin\Debug\net8.0\FinancialManager.Application.deps.json
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\bin\Debug\net8.0\FinancialManager.Application.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\bin\Debug\net8.0\FinancialManager.Application.pdb
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\bin\Debug\net8.0\FinancialManager.Domain.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\bin\Debug\net8.0\FinancialManager.Domain.pdb
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\FinancialManager.Application.csproj.AssemblyReference.cache
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\FinancialManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\FinancialManager.Application.AssemblyInfoInputs.cache
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\FinancialManager.Application.AssemblyInfo.cs
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\FinancialManager.Application.csproj.CoreCompileInputs.cache
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\Financia.D1F13E23.Up2Date
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\FinancialManager.Application.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\refint\FinancialManager.Application.dll
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\FinancialManager.Application.pdb
+C:\PROJETOS\.NET C#\Financial Manager\FinancialManager.Application\obj\Debug\net8.0\ref\FinancialManager.Application.dll
