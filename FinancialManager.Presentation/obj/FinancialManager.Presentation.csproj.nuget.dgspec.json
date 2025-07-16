@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Presentation\\FinancialManager.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Application\\FinancialManager.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Application\\FinancialManager.Application.csproj",
+        "projectName": "FinancialManager.Application",
+        "projectPath": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Application\\FinancialManager.Application.csproj",
+        "packagesPath": "C:\\Users\\Gabriel Barros\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel Barros\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Domain\\FinancialManager.Domain.csproj": {
+                "projectPath": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Domain\\FinancialManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Domain\\FinancialManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Domain\\FinancialManager.Domain.csproj",
+        "projectName": "FinancialManager.Domain",
+        "projectPath": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Domain\\FinancialManager.Domain.csproj",
+        "packagesPath": "C:\\Users\\Gabriel Barros\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel Barros\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Infrastructure\\FinancialManager.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Infrastructure\\FinancialManager.Infrastructure.csproj",
+        "projectName": "FinancialManager.Infrastructure",
+        "projectPath": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Infrastructure\\FinancialManager.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Gabriel Barros\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel Barros\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Domain\\FinancialManager.Domain.csproj": {
+                "projectPath": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Domain\\FinancialManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Presentation\\FinancialManager.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Presentation\\FinancialManager.Presentation.csproj",
+        "projectName": "FinancialManager.Presentation",
+        "projectPath": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Presentation\\FinancialManager.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Gabriel Barros\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel Barros\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Application\\FinancialManager.Application.csproj": {
+                "projectPath": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Application\\FinancialManager.Application.csproj"
+              },
+              "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Infrastructure\\FinancialManager.Infrastructure.csproj": {
+                "projectPath": "C:\\PROJETOS\\.NET C#\\Financial Manager\\FinancialManager.Infrastructure\\FinancialManager.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
