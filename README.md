@@ -1,6 +1,6 @@
 # Sistema de Controle Financeiro
 
-Um sistema robusto de controle financeiro desenvolvido em C# com WPF, seguindo arquitetura em camadas (Clean Architecture).
+Um sistema de controle financeiro desenvolvido em C# com WPF, seguindo arquitetura em camadas (Clean Architecture).
 
 ![Interface do Sistema](print-tela.png)
 
@@ -214,12 +214,12 @@ O arquivo do banco (`FinancialManager.db`) será criado automaticamente na prime
 
 ##  Autor
 
-*Gabriel Barros*
+> **Gabriel Barros – Desenvolvedor de Software**  
+**Email:** [gabrielbarrosg11@gmail.com]  
+**LinkedIn:** [linkedin.com/in/gabriel-sbarros](#)
 
-Desenvolvido para aprendizado de arquitetura .NET com C# e WPF.
+Desenvolvido para aprendizado de arquitetura robusta em .NET com C# e WPF.
 
 ---
 
-**Nota**: Este projeto foi criado para demonstrar as melhores práticas de arquitetura em .NET, especialmente para desenvolvedores migrando de Java/Spring para .NET/C#. 
-
-**Status**: ✅ **FUNCIONANDO** - Sistema básico completo e operacional com filtros funcionais! # Financial-Manager
+**Status**:  **FUNCIONANDO** - Sistema básico completo e operacional com filtros funcionais!
